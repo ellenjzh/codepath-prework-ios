@@ -1,28 +1,45 @@
-# codepath-prework-ios
-codepath prework ios project
+# CodePath Prework: iOS Project
 
-- Improve the UI by using different fonts/colors/background
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Iplement a way to change the color of the text as well
+## Tasks:
+1. **UI Improvements**:
+   - Use different fonts, colors, and backgrounds.
+   - Experiment with other UI elements such as image views and textfields.
+   - Implement functionality to change text color.
 
+## App Brainstorming:
 
-##App Brainstorming
-app1: the little red 
-    - I love how it can recommend the topics I like, and it is super accurate!
-    - the the UI is simple and clear 
-app2: maps 
-    - super useful app that it marked the stop signs and traffic light on the map 
-    - it also has 3D visulization of the buildings around 
-app3: weather app 
-    - apple build in weather app has so many features I like. One of them is the weather icons, super cute 
-    - weather adaptive dynamic background 
-app4: forest app
-    - simple user interface, and cute Icons
-    - I can buy new trees 
-    
-App I want to build: 
-Background: 
-There has been a problem bothering me for a long time. I need to be more motivated during the long process of studying, so I am thinking about buiding an app that can motivate me to study with features like reminding me to take a rest during the long process of studying/working. For me, I usually start working and forget about time. Later on, I have eye issues because of long non stop studying. Building this app will be super useful and important to me. 
-Features:
-People might ask, why not using a clock to remind ourselve? My answer is, this is different than the clock since there will be more than the timing feature. The main feature is to record our studying time in order to motivate, and the side feature is that there will be a reminder to take a break. If we our study time reaches a certain amount, there will be new rewards in the app for us to unlock such as collecting icons/badages. 
+### App1: The Little Red
+- **Pros**:
+  - Recommends topics accurately.
+  - UI is simple and clear.
+
+### App2: Maps
+- **Pros**:
+  - Marks stop signs and traffic lights on the map.
+  - 3D visualization of surrounding buildings.
+
+### App3: Weather App
+- **Pros**:
+  - Apple's built-in weather app features.
+  - Cute weather icons.
+  - Weather-adaptive dynamic background.
+
+### App4: Forest App
+- **Pros**:
+  - Simple user interface.
+  - Cute icons.
+  - Option to purchase new trees.
+
+## App Concept: **Study Motivator**
+**Background**:
+There's a persistent issue I've encountered: staying motivated during long study sessions. This app's main aim is to help users like me, who often lose track of time during study sessions, potentially leading to health issues. This app serves as a motivational tool to enhance the studying experience.
+
+**Why Not Just Use A Clock?**: 
+The purpose of this app isn't just time-keeping. It goes beyond that. The main feature is to record our studying time in order to motivate, and the side feature is that there will be a reminder to take a break. If we our study time reaches a certain amount, there will be new rewards in the app for us to unlock such as collecting icons/badages. 
+
+**Features**:
+- **Main Feature**: Record study time to motivate users.
+- **Side Feature**: Reminder to take breaks.
+- **Rewards**: As users accumulate study hours, they can unlock rewards like icons and badges.
+
 
