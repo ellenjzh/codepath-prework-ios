@@ -30,7 +30,7 @@
   - Cute icons.
   - Option to purchase new trees.
 
-## App Concept: **Study Motivator**
+## App Brainstorming: **Study Motivator**
 **Background**:
 There's a persistent issue I've encountered: staying motivated during long study sessions. This app's main aim is to help users like me, who often lose track of time during study sessions, potentially leading to health issues. This app serves as a motivational tool to enhance the studying experience.
 
